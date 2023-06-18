@@ -1,6 +1,3 @@
-# Global-SuperStore-Sales-2016
-
-# Global-SuperStore-Sales-2016
 
 # Global Super Store 2016 Dashboard
 
@@ -34,22 +31,38 @@ The Global Super Store 2016 dashboard includes the following features:
 ![Dashboard Screenshot](kpi's.png)
 
 - ### Pie Chart:
-       A Pie Chart visualization displays the sales breakdown by segment. It provides insights into the distribution of sales among different segments, such as Consumer, Corporate, and Home Office.
+       A Pie Chart visualization displays the sales breakdown by segment. It provides insights into the distribution of sales among different segments, such as Consumer,           Corporate, and Home Office.
+
+![Dashboard Screenshot](sales by segment.png)
 
 - ### Donut Chart: 
       The Donut Chart visualization showcases the sales breakdown by market. It illustrates the proportion of sales from different market segments.
 
+![Dashboard Screenshot](sales by market.png)
+
 - ### Column Chart:
       The Column Chart visualization represents the top 10 customers by profit. It allows you to identify the customers generating the highest profits.
 
+![Dashboard Screenshot](top 10 customer.png)
+
 - ### Column Bar Charts: 
-      The dashboard includes two Column Bar Charts. One shows the top 6 products by profit, allowing you to identify the most profitable products. The other chart displays the top 6 products by loss, highlighting products that may require attention to improve profitability.
+      The dashboard includes two Column Bar Charts. One shows the top 6 products by profit, allowing you to identify the most profitable products. 
+      
+![Dashboard Screenshot](top 6 product by profit.png)
+      
+   The other chart displays the top 6 products by loss, highlighting products that may require attention to improve profitability.
+
+![Dashboard Screenshot](top 6 product by loss.png)
 
 - ### Map: 
       The Map visualization presents the sales distribution by region. It enables you to visualize the geographical spread of sales and identify regions with high or low sales.
 
+![Dashboard Screenshot](sales by region.png)
+
 - ### Filter: 
       The dashboard includes a filter that allows you to focus on insights specific to a particular year. This interactive feature provides the flexibility to analyze data for different time periods.
+
+![Dashboard Screenshot](filter.png)
 
 ## Dataset
 
